@@ -1,0 +1,87 @@
+code,name,region,continent,fee
+A,Austria,DACH,Europe,exempt
+AFG,Afghanistan,WORLD,Asia,refund
+ARM,Armenia,WORLD,Asia,partial
+ASB,Azerbaijan,WORLD,Asia,partial
+AUS,Australia,WORLD,Oceania,double
+B,Belgium,EU,Europe,exempt
+BG,Bulgaria,EU,Europe,exempt
+BH,Bahrain,WORLD,Asia,double
+BLR,Belarus,WORLD,Europe,partial
+BR,Brazil,WORLD,South America,partial
+BS,Bahamas,WORLD,North America,double
+BSH,Bosnia and Herzegovina,WORLD,Europe,partial
+BUR,Myanmar,WORLD,Asia,refund
+CDN,Canada,WORLD,North America,double
+CH,Switzerland,DACH,Europe,exempt
+CHF,PR China,WORLD,Asia,partial
+CO,Colombia,WORLD,South America,partial
+CR,Costa Rica,WORLD,North America,partial
+CRO,Croatia,EU,Europe,exempt
+CY,Cyprus,EU,Europe,exempt
+D,Germany,DACH,Europe,exempt
+DK,Denmark,EU,Europe,exempt
+E,Spain,EU,Europe,exempt
+EAK,Kenya,WORLD,Africa,refund
+EAU,Uganda,WORLD,Africa,refund
+EC,Ecuador,WORLD,South America,partial
+ELD,Estonia,EU,Europe,exempt
+ET,Egypt,WORLD,Africa,refund
+ETH,Ethiopia,WORLD,Africa,refund
+F,France,EU,Europe,exempt
+GB,UK,WORLD,Europe,double
+GG,Georgia,WORLD,Asia,partial
+GR,Greece,EU,Europe,exempt
+H,Hungary,EU,Europe,exempt
+I,Italy,EU,Europe,exempt
+IL,Israel,WORLD,Asia,double
+IND,India,WORLD,Asia,refund
+IR,Iran,WORLD,Asia,refund
+IRL,Ireland,EU,Europe,exempt
+IST,South Tyrol,DACH,Europe,exempt
+J,Japan,WORLD,Asia,double
+KAS,Kazakhstan,WORLD,Asia,partial
+KSV,Kosovo,WORLD,Europe,partial
+L,Luxembourgh,EU,Europe,exempt
+LIT,Lithuania,EU,Europe,exempt
+LLD,Latvia,EU,Europe,exempt
+MA,Morocco,WORLD,Africa,refund
+MAL,Malaysia,WORLD,Asia,partial
+MAZ,Macedonia,WORLD,Europe,partial
+MEX,Mexico,WORLD,North America,partial
+MGL,Mongolia,WORLD,Asia,refund
+MLD,Maldives,WORLD,Asia,partial
+MO,Montenegro,WORLD,Europe,partial
+N,Norway,EU,Europe,exempt
+NEP,Nepal,WORLD,Asia,refund
+NL,Netherlands,EU,Europe,exempt
+NZ,New Zealand,WORLD,Oceania,double
+P,Portugal,EU,Europe,exempt
+PAK,Pakistan,WORLD,Asia,refund
+PE,Peru,WORLD,South America,partial
+PI,Philippines,WORLD,Asia,refund
+PL,Poland,EU,Europe,exempt
+PST,Palestine,WORLD,Asia,partial
+PY,Paraguay,WORLD,South America,partial
+R,Romania,EU,Europe,exempt
+RA,Argentina,WORLD,South America,partial
+RC,Taiwan,WORLD,Asia,double
+RCH,Chile,WORLD,South America,double
+RI,Indonesia,WORLD,Asia,partial
+ROK,South Korea,WORLD,Asia,double
+RSF,Russia,WORLD,Europe,double
+S,Sweden,EU,Europe,exempt
+SA,Saudi Arabia,WORLD,Asia,double
+SB,Serbia,WORLD,Europe,partial
+SF,Finland,EU,Europe,exempt
+SLO,Slovenia,EU,Europe,exempt
+SQ,Slovakia,EU,Europe,exempt
+SUD,Sudan,WORLD,Africa,refund
+SYR,Syria,WORLD,Asia,refund
+T,Thailand,WORLD,Asia,partial
+TCH,Czechia,EU,Europe,exempt
+TR,Turkey,WORLD,Asia,partial
+UKR,Ukraine,WORLD,Europe,exempt
+USA,USA,WORLD,North America,double
+VN,Vietnam,WORLD,Asia,refund
+WAN,Nigeria,WORLD,Africa,refund
