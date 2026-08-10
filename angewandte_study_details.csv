@@ -1,12 +1,14 @@
 name,level,studienkennzahl,language,institute,admission,stv
 Architecture,MA,066 443,EN,Architektur,BA,Architektur (MA)
+Art & Economy,MA,999 064,DE,,,Postgraduale Lehrgänge
 Art & Science,MA,066 776,EN,Bildende & Mediale Kunst,BA,Art & Science (MA)
+Applied Human Rights,MA,992 884,EN,,BA,Postgraduale Lehrgänge
 ausserodentliche Studierende,,,,,,
 Bildende Kunst,Diplom,605,ambiguous,Bildende & Mediale Kunst,,Bildende Kunst
 Bühnengestaltung,Diplom,542,,Bildende & Mediale Kunst,,Bühnengestaltung
 CDS,BA,033 700,EN,Kunst & Gesellschaft,Matura,Cross-Disciplinary Strategies
 CDS,MA,066 569,EN,Kunst & Gesellschaft,BA,Cross-Disciplinary Strategies
-Cultural Heritage Conservation and Management,MA,066 572,EN,Konservierung & Restaurierung,BA,Restaurierung
+Cultural Heritage Conservation and Management,MA,066 572,EN,Konservierung & Restaurierung,BA,Restaurierung+CHC
 Design: Angewandte Fotografie,Diplom,626,ambiguous,Design,,Design
 Design: Kommunikationsdesign,Diplom,577,DE,Design,,Design
 Design: Mode,Diplom,584,ambiguous,Design,,Design
@@ -17,19 +19,19 @@ PhD (tech),PhD,786,ambiguous,Doktoratszentrum,MA,Doktoratsstudien (wissenschaftl
 PhD (phil),PhD,792,ambiguous,Doktoratszentrum,MA,Doktoratsstudien (wissenschaftlich & technisch)
 Medienkunst: Digitale Kunst,Diplom,567,ambiguous,Bildende & Mediale Kunst,,Medienkunst
 Medienkunst: Transmediale,Diplom,566,ambiguous,Bildende & Mediale Kunst,,Medienkunst
-educating/curating/making,MA,999 102,,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,
+educating/curating/making,MA,999 102,,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Postgraduale Lehrgänge
 Expanded Museum Studies,MA,066 537,DE/EN,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Expanded Museum Studies (MA)
 Experimental Game Cultures,MA,066 536,DE/EN,Kunst & Gesellschaft,BA,Experimental Game Cultures (MA)
 Industrial Design,Diplom,580,ambiguous,Design,Matura,Industrial Design
-Restaurierung,Diplom,588,DE,Konservierung & Restaurierung,,Restaurierung
+Restaurierung,Diplom,588,DE,Konservierung & Restaurierung,,Restaurierung+CHC
 Kunst- und Kulturwissenschaften,MA,066 568,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Kunst- und Kulturwissenschaften (MA)
 Lehramt,BA,193 067,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",Matura,Lehramt
 Lehramt,MA,196 067,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Lehramt
 Lehramt,BA,193 074,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",Matura,Lehramt
 Lehramt,MA,196 074,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Lehramt
 Social Design,MA,066 781,DE/EN,Kunst & Gesellschaft,,Social Design (MA)
-Sprachkunst,BA,033 170,DE,Sprachkunst,,Sprachkunst
-Sprachkunst,MA,066 570,DE,Sprachkunst,BA,Sprachkunst
+Sprachkunst,BA,033 170,DE,Sprachkunst,,Sprachkunst (BA+MA)
+Sprachkunst,MA,066 570,DE,Sprachkunst,BA,Sprachkunst (BA+MA)
 TransArts,BA,033 180,ambiguous,Bildende & Mediale Kunst,,TransArts (BA+MA)
 TransArts,MA,066 780,ambiguous,Bildende & Mediale Kunst,BA,TransArts (BA+MA)
 Transformation Studies,BA,033 162,EN,Transformation,Matura,Transformation Studies (BA+PhD)
