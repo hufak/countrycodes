@@ -7,6 +7,7 @@ You can use raw download from the following URL: https://hufak.github.io/country
 ## Quellen
 
 - Ländercodes
+  - [Statistik Austria Staatenliste](https://www.statistik.at/fileadmin/pages/1183/Nation_Stand_2024.pdf) (Stand 2024), [BMBWF Codeliste](https://www.bmf.gv.at/dam/jcr:f8699d94-5ba2-4436-83d2-5991888f9791/Codelisten_AES_CSRD2.pdf) (Stand 2026)
   - [Universits-Studienevidenzverordnung](https://www.ris.bka.gv.at/eli/bgbl/ii/1997/245/ANL6/NOR40035226) (letzte gültige Fassung von 2004)
 - Beitragsstatus
   - [DAC-Liste der OECD](https://www.oecd.org/en/topics/sub-issues/oda-eligibility-and-conditions/dac-list-of-oda-recipients.html#oda-recipients-list)

@@ -1,12 +1,14 @@
 code,ename,name,region,continent,fee
 A,Austria,Österreich,DACH,Europe,exempt
 AFG,Afghanistan,Afghanistan,WORLD,Asia,refund
+AGN,Equatorial Guinea,Äquatorialguinea,WORLD,Africa,
 AL,Albania,Albanien,WORLD,Europe,partial
 ALG,Algeria,Algerien,WORLD,Africa,partial
 AND,Andorra,Andorra,WORLD,Europe,double
 ANG,Angola,Angola,WORLD,Africa,refund
 ARM,Armenia,Armenien,WORLD,Asia,partial
 ASB,Azerbaijan,Aserbeidschan,WORLD,Asia,partial
+ATB,Antigua and Barbuda,Antigua und Barbuda,WORLD,North America,
 AUS,Australia,Australien,WORLD,Oceania,double
 B,Belgium,Belgien,EU,Europe,exempt
 BD,Bangladesh,Bangladesch,WORLD,Asia,refund
@@ -15,6 +17,7 @@ BG,Bulgaria,Bulgarien,EU,Europe,exempt
 BH,Bahrain,Bahrain,WORLD,Asia,double
 BHT,Bhutan,Bhutan,WORLD,Asia,refund
 BLR,Belarus,Weißrußland,WORLD,Europe,partial
+BLZ,Belize,Belize,WORLD,North America,
 BOL,Bolivia,Bolivien,WORLD,South America,refund
 BR,Brazil,Brasilien,WORLD,South America,partial
 BRU,Brunei,Brunei,WORLD,Asia,double
@@ -45,6 +48,7 @@ EAT,Tanzania,Tansania,WORLD,Africa,refund
 EAU,Uganda,Uganda,WORLD,Africa,refund
 EC,Ecuador,Ecuador,WORLD,South America,partial
 ELD,Estonia,Estland,EU,Europe,exempt
+ERI,Eritrea,Eritrea,WORLD,Africa,
 ES,El Salvador,El Salvador,WORLD,North America,refund
 ET,Egypt,Ägypten,WORLD,Africa,refund
 ETH,Ethiopia,Äthiopien,WORLD,Africa,refund
@@ -94,21 +98,27 @@ MC,Monaco,Monaco,WORLD,Europe,double
 MDA,Moldova,Moldau,WORLD,Europe,partial
 MEX,Mexico,Mexiko,WORLD,North America,partial
 MGL,Mongolia,Mongolei,WORLD,Asia,refund
+MIK,Micronesia,"Mikronesien, Föderierte Staaten von",WORLD,Oceania,
 MLD,Maldives,Malediven,WORLD,Asia,partial
 MO,Montenegro,Montenegro,WORLD,Europe,partial
 MOC,Mozambique,Mosambik,WORLD,Africa,refund
+MRO,Sovereign Order of Malta,Souveräner Malteser Ritterorden,WORLD,Europe,
 MS,Mauritius,Mauritius,WORLD,Africa,partial
+MSH,Marshall Islands,Marshallinseln,WORLD,Oceania,
 MW,Malawi,Malawi,WORLD,Africa,refund
 N,Norway,Norwegen,EU,Europe,exempt
 NAM,Namibia,Namibia,WORLD,Africa,refund
 NEP,Nepal,Nepal,WORLD,Asia,refund
 NIC,Nicaragua,Nicaragua,WORLD,North America,refund
 NL,Netherlands,Niederlande,EU,Europe,exempt
+NR,Nauru,Nauru,WORLD,Oceania,
 NZ,New Zealand,Neuseeland,WORLD,Oceania,double
 OMA,Oman,Oman,WORLD,Asia,double
+OTM,Timor-Leste,Timor-Leste,WORLD,Asia,
 P,Portugal,Portugal,EU,Europe,exempt
 PA,Panama,Panama,WORLD,North America,partial
 PAK,Pakistan,Pakistan,WORLD,Asia,refund
+PAL,Palau,Palau,WORLD,Oceania,
 PE,Peru,Peru,WORLD,South America,partial
 PI,Philippines,Philippinen,WORLD,Asia,refund
 PL,Poland,Polen,EU,Europe,exempt
@@ -141,6 +151,8 @@ RWA,Rwanda,Ruanda,WORLD,Africa,refund
 S,Sweden,Schweden,EU,Europe,exempt
 SA,Saudi Arabia,Saudi-Arabien,WORLD,Asia,double
 SB,Serbia,Serbien,WORLD,Europe,partial
+SCN,St. Kitts and Nevis,St. Kitts und Nevis,WORLD,North America,
+SD,Eswatini,Eswatini,WORLD,Africa,
 SF,Finland,Finnland,EU,Europe,exempt
 SGP,Singapore,Singapur,WORLD,Asia,double
 SLO,Slovenia,Slowenien,EU,Europe,exempt
@@ -149,12 +161,14 @@ SN,Senegal,Senegal,WORLD,Africa,refund
 SO,Somalia,Somalia,WORLD,Africa,refund
 SOL,Solomon Islands,Salomonen,WORLD,Oceania,refund
 SQ,Slovakia,Slowakei,EU,Europe,exempt
+SS,South Sudan,Südsudan,WORLD,Africa,
 STP,Sao Tome and Principe,Sao Tome und Principe,WORLD,Africa,refund
 SUD,Sudan,Sudan,WORLD,Africa,refund
 SY,Seychelles,Seychellen,WORLD,Africa,partial
 SYR,Syria,Syrien,WORLD,Asia,refund
 T,Thailand,Thailand,WORLD,Asia,partial
 TCH,Czechia,Tschechische Republik,EU,Europe,exempt
+TD,Chad,Tschad,WORLD,Africa,
 TG,Tonga,Tonga,WORLD,Oceania,double
 TJ,Tajikistan,Tadschikistan,WORLD,Asia,refund
 TM,Turkmenistan,Turkmenistan,WORLD,Asia,partial
@@ -169,6 +183,7 @@ UV,Burkina Faso,Burkina Faso,WORLD,Africa,refund
 UZB,Uzbekistan,Usbekistan,WORLD,Asia,refund
 V,Vatican,Vatikan,WORLD,Europe,double
 VN,Vietnam,Vietnam,WORLD,Asia,refund
+VTU,Vanuatu,Vanuatu,WORLD,Oceania,
 WAG,Gambia,Gambia,WORLD,Africa,double
 WAL,Sierra Leone,Sierra Leone,WORLD,Africa,refund
 WAN,Nigeria,Nigeria,WORLD,Africa,refund
@@ -177,6 +192,7 @@ WG,Grenada,Grenada,WORLD,North America,partial
 WL,St. Lucia,St. Lucia,WORLD,North America,double
 WS,Samoa,Samoa,WORLD,Oceania,refund
 WV,St. Vincent and the Grenadines,St. Vincent und die Grenadinen,WORLD,North America,double
+XXX,citizenship unresolved,Staatsbürgerschaft ungeklärt,WORLD,,
 YD,Yemen,Jemen,WORLD,Asia,double
 YU,former Yugoslavia,ehem. Jugoslawien,WORLD,Europe,double
 YV,Venezuela,Venezuela,WORLD,South America,partial
