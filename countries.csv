@@ -77,7 +77,7 @@ KAS,Kazakhstan,Kasachstan,WORLD,Asia,partial
 KIR,Kiribati,Kiribati,WORLD,Oceania,refund
 KPI,North Korea,"Korea, Demokratische Volksrepublik",WORLD,Asia,double
 KS,Kyrgyzstan,Kirgisistan,WORLD,Asia,refund
-KSV,Kosovo,,WORLD,Europe,partial
+KSV,Kosovo,Kosovo,WORLD,Europe,partial
 KWT,Kuwait,Kuwait,WORLD,Asia,double
 L,Luxembourgh,Luxemburg,EU,Europe,exempt
 LAO,Laos,Laos,WORLD,Asia,refund
@@ -95,7 +95,7 @@ MDA,Moldova,Moldau,WORLD,Europe,partial
 MEX,Mexico,Mexiko,WORLD,North America,partial
 MGL,Mongolia,Mongolei,WORLD,Asia,refund
 MLD,Maldives,Malediven,WORLD,Asia,partial
-MO,Montenegro,,WORLD,Europe,partial
+MO,Montenegro,Montenegro,WORLD,Europe,partial
 MOC,Mozambique,Mosambik,WORLD,Africa,refund
 MS,Mauritius,Mauritius,WORLD,Africa,partial
 MW,Malawi,Malawi,WORLD,Africa,refund
@@ -113,7 +113,7 @@ PE,Peru,Peru,WORLD,South America,partial
 PI,Philippines,Philippinen,WORLD,Asia,refund
 PL,Poland,Polen,EU,Europe,exempt
 PNG,Papua New Guinea,Papua-Neuguinea,WORLD,Oceania,refund
-PST,Palestine,,WORLD,Asia,partial
+PST,Palestine,Palästina,WORLD,Asia,partial
 PY,Paraguay,Paraguay,WORLD,South America,partial
 Q,Qatar,Katar,WORLD,Asia,double
 R,Romania,Rumänien,EU,Europe,exempt
@@ -140,7 +140,7 @@ RU,Burundi,Burundi,WORLD,Africa,refund
 RWA,Rwanda,Ruanda,WORLD,Africa,refund
 S,Sweden,Schweden,EU,Europe,exempt
 SA,Saudi Arabia,Saudi-Arabien,WORLD,Asia,double
-SB,Serbia,,WORLD,Europe,partial
+SB,Serbia,Serbien,WORLD,Europe,partial
 SF,Finland,Finnland,EU,Europe,exempt
 SGP,Singapore,Singapur,WORLD,Asia,double
 SLO,Slovenia,Slowenien,EU,Europe,exempt
