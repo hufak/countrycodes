@@ -1,7 +1,7 @@
 name,level,studienkennzahl,language,institute,admission,stv
 Architecture,MA,066 443,EN,Architektur,BA,Architektur
 Applied Human Rights,MA,992 884,EN,,BA,Postgraduale Lehrgänge
-Art & Economy,MA,999 064,DE,,,Postgraduale Lehrgänge
+Art & Economy,MA,999 064,DE,,BA,Postgraduale Lehrgänge
 Art & Science,MA,066 776,EN,Bildende & Mediale Kunst,BA,Art & Science
 ausserordentliche Studierende,,,,,,
 Bildende Kunst,Diplom,605,ambiguous,Bildende & Mediale Kunst,,Bildende Kunst
@@ -29,7 +29,7 @@ Lehramt: kkp,BA,193 067,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermit
 Lehramt: kkp,MA,196 067,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Lehramt
 Lehramt: dex,BA,193 074,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",Matura,Lehramt
 Lehramt: dex,MA,196 074,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Lehramt
-Social Design,MA,066 781,DE/EN,Kunst & Gesellschaft,,Social Design
+Social Design,MA,066 781,DE/EN,Kunst & Gesellschaft,BA,Social Design
 Sprachkunst,BA,033 170,DE,Sprachkunst,,Sprachkunst
 Sprachkunst,MA,066 570,DE,Sprachkunst,BA,Sprachkunst
 TransArts,BA,033 180,ambiguous,Bildende & Mediale Kunst,,TransArts
