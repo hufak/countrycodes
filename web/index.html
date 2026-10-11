@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Browse Angewandte study programmes by institute, and search study codes, languages and student representations." />
+    <title>Angewandte study programmes</title>
+  </head>
+  <body>
+    <main>
+      <h1>Angewandte study programmes</h1>
+      <p>Search across all fields or select a column heading to sort.</p>
+      <p><a href="./angewandte_study_details.csv" download>Download study data (CSV)</a></p>
+      <p id="status" role="status">Loading study programmes…</p>
+      <noscript><p>Enable JavaScript to browse the table, or download the CSV above.</p></noscript>
+      <div class="table-scroll" role="region" aria-label="Study programmes table" tabindex="0" hidden>
+        <table id="studies">
+          <caption>Study programmes</caption>
+          <thead><tr>
+            <th scope="col">Programme</th>
+            <th scope="col">Level</th>
+            <th scope="col">Study code</th>
+            <th scope="col">Language</th>
+            <th scope="col">Institute</th>
+            <th scope="col">Admission</th>
+            <th scope="col">Student representation</th>
+          </tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </main>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

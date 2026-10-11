@@ -1,0 +1,17 @@
+:root {
+  font-family: system-ui, sans-serif;
+  color: #20252b;
+  background: #fff;
+  line-height: 1.5;
+}
+
+body { margin: 0; }
+main { max-width: 100rem; margin: 0 auto; padding: clamp(1rem, 3vw, 3rem); }
+h1 { line-height: 1.2; font-size: clamp(1.6rem, 4vw, 2.4rem); }
+a { color: #174fa3; }
+:focus-visible { outline: 3px solid #174fa3; outline-offset: 3px; }
+.table-scroll { overflow-x: auto; }
+table { width: 100%; }
+caption { text-align: left; padding: 1rem 0; }
+table.dataTable th, table.dataTable td { vertical-align: top; }
+input[type='search'] { min-height: 2.5rem; max-width: 100%; }

@@ -1,5 +1,46 @@
 # Country codes
 
+## Study programme browser
+
+The site also provides a searchable study programme table using Vite, Papa Parse
+and DataTables. All records appear on one page, sorted by programme name by
+default; select any column heading to change the sorting.
+Empty fields remain blank. CSV values are rendered as text and
+study codes retain their leading zeroes.
+
+App source and dependencies live in `web/`; the root CSV files remain the
+canonical data source. Generated files are not committed.
+
+Use Node.js 24 LTS:
+
+```sh
+cd web
+npm ci
+npm run dev
+```
+
+Open the URL printed by Vite. To test the production build:
+
+```sh
+npm run build
+npm run preview
+```
+
+Edit `angewandte_study_details.csv` in the repository root to update the table.
+The browser loads it directly, including during local development. The build
+copies all root CSV files into `web/dist/`
+under their original names, preserving existing download URLs.
+
+In GitHub **Settings → Pages → Build and deployment**, select **GitHub Actions**
+as the source. The workflow builds and deploys on every push to `main`, and
+checks the build on pull requests. It can also be run manually. The site is
+configured for `/countrycodes/`; change `base` in `web/vite.config.js` if hosted
+under another path or on a custom domain.
+
+The table uses native table headers, a caption, labelled search, visible focus
+indicators and DataTables' keyboard sorting.
+Screen-reader testing of the deployed page is still recommended.
+
 A handy CSV file mapping the arcane Austrian university student registry "country" codes to their corresponding names, linguistic/political region, continent, and their nationals' tuition fee status (specific to Angewandte, see below).
 
 You can use raw download from the following URL: https://hufak.github.io/countrycodes/countries.csv
