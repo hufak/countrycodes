@@ -3,7 +3,7 @@ import DataTable from 'datatables.net-dt';
 import 'datatables.net-dt/css/dataTables.dataTables.css';
 import './style.css';
 
-const fields = ['name', 'level', 'studienkennzahl', 'language', 'institute', 'admission', 'stv'];
+const fields = ['name', 'level', 'studienkennzahl', 'language', 'institute', 'admission', 'stv', 'stuko', 'ws2025'];
 const status = document.querySelector('#status');
 const container = document.querySelector('.table-scroll');
 
@@ -25,18 +25,17 @@ async function loadStudies() {
       data: parsed.data,
       columns: fields.map((data) => ({
         data,
+        ...(data === 'ws2025' ? { type: 'num' } : {}),
         render: DataTable.render.text(),
         defaultContent: '',
       })),
       paging: false,
+      searching: false,
       order: [[0, 'asc']],
       language: {
-        search: 'Search programmes:',
         emptyTable: 'No study programmes available.',
-        zeroRecords: 'No matching study programmes.',
         info: 'Showing _TOTAL_ study programmes',
         infoEmpty: 'Showing 0 study programmes',
-        infoFiltered: '(from _MAX_ in total)',
       },
     });
     status.textContent = '';

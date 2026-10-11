@@ -14,4 +14,3 @@ a { color: #174fa3; }
 table { width: 100%; }
 caption { text-align: left; padding: 1rem 0; }
 table.dataTable th, table.dataTable td { vertical-align: top; }
-input[type='search'] { min-height: 2.5rem; max-width: 100%; }

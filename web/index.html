@@ -3,28 +3,52 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Browse Angewandte study programmes by institute, and search study codes, languages and student representations." />
+    <meta
+      name="description"
+      content="Browse Angewandte study programmes, study codes, languages, institutes and student representations."
+    />
     <title>Angewandte study programmes</title>
   </head>
   <body>
     <main>
       <h1>Angewandte study programmes</h1>
-      <p>Search across all fields or select a column heading to sort.</p>
-      <p><a href="./angewandte_study_details.csv" download>Download study data (CSV)</a></p>
+      <p>Select a column heading to sort.</p>
+      <p>Student counts are from the winter semester 2025 (WS2025).</p>
+      <p>
+        <a href="./angewandte_study_details.csv" download
+          >Download study data (CSV)</a
+        >
+      </p>
       <p id="status" role="status">Loading study programmes…</p>
-      <noscript><p>Enable JavaScript to browse the table, or download the CSV above.</p></noscript>
-      <div class="table-scroll" role="region" aria-label="Study programmes table" tabindex="0" hidden>
+      <noscript
+        ><p>
+          Enable JavaScript to browse the table, or download the CSV above.
+        </p></noscript
+      >
+      <div
+        class="table-scroll"
+        role="region"
+        aria-label="Study programmes table"
+        tabindex="0"
+        hidden
+      >
         <table id="studies">
-          <caption>Study programmes</caption>
-          <thead><tr>
-            <th scope="col">Programme</th>
-            <th scope="col">Level</th>
-            <th scope="col">Study code</th>
-            <th scope="col">Language</th>
-            <th scope="col">Institute</th>
-            <th scope="col">Admission</th>
-            <th scope="col">Student representation</th>
-          </tr></thead>
+          <caption>
+            Study programmes
+          </caption>
+          <thead>
+            <tr>
+              <th scope="col">Programme</th>
+              <th scope="col">Level</th>
+              <th scope="col">Studienkennzahl</th>
+              <th scope="col">Language</th>
+              <th scope="col">Institute</th>
+              <th scope="col">Admission</th>
+              <th scope="col">StV</th>
+              <th scope="col">StuKo</th>
+              <th scope="col"># students</th>
+            </tr>
+          </thead>
           <tbody></tbody>
         </table>
       </div>

@@ -1,36 +1,36 @@
-name,level,studienkennzahl,language,institute,admission,stv,stuko
-Architecture,MA,066 443,EN,Architektur,BA,Architektur,Architektur
-Art & Science,MA,066 776,EN,Bildende & Mediale Kunst,BA,Art & Science,Art & Science
-ausserordentliche Studierende,,,,,,,
-Bildende Kunst,Diplom,605,ambiguous,Bildende & Mediale Kunst,,Bildende Kunst,Bildende Kunst
-Bühnengestaltung,Diplom,542,,Bildende & Mediale Kunst,,Bühnengestaltung,Bühnen- und Filmgestaltung
-CDS,BA,033 700,EN,Kunst & Gesellschaft,Matura,Cross-Disciplinary Strategies,Cross-Disciplinary Strategies
-CDS,MA,066 569,EN,Kunst & Gesellschaft,BA,Cross-Disciplinary Strategies,Cross-Disciplinary Strategies
-Cultural Heritage Conservation and Management,MA,066 572,EN,Konservierung & Restaurierung,BA,Restaurierung+CHC,Cultural Heritage Conservation and Management
-Design: Angewandte Fotografie,Diplom,626,ambiguous,Design,,Design,Design
-Design: Kommunikationsdesign,Diplom,577,DE,Design,,Design,Design
-Design: Mode,Diplom,584,ambiguous,Design,,Design,Design
-Design: Narrative Medien,Diplom,576,ambiguous,Design,,Design,Design
-educating/curating/making,MA,999 102,,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Postgraduale Lehrgänge,/ecm – education/ curating/ making
-PhD artistic research,PhD,794 950,EN,Doktoratszentrum,MA,Doktoratsstudium künstlerische Forschung,Künstlerisches Doktoratsstudium
-PhD Naturwissenschaften,PhD,791,ambiguous,Doktoratszentrum,MA,Doktoratsstudien (wissenschaftlich & technisch),"Doktoratsstudium der Philosophie, der Techn. Wissenschaften und der Naturwissenschaften"
-PhD technische Wissenschaften,PhD,786,ambiguous,Doktoratszentrum,MA,Doktoratsstudien (wissenschaftlich & technisch),"Doktoratsstudium der Philosophie, der Techn. Wissenschaften und der Naturwissenschaften"
-PhD Philosophie,PhD,792,ambiguous,Doktoratszentrum,MA,Doktoratsstudien (wissenschaftlich & technisch),"Doktoratsstudium der Philosophie, der Techn. Wissenschaften und der Naturwissenschaften"
-Medienkunst: Digitale Kunst,Diplom,567,ambiguous,Bildende & Mediale Kunst,,Medienkunst,Medienkunst
-Medienkunst: Transmediale,Diplom,566,ambiguous,Bildende & Mediale Kunst,,Medienkunst,Medienkunst
-Expanded Museum Studies,MA,066 537,DE/EN,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Expanded Museum Studies,Expanded Museum Studies
-Experimental Game Cultures,MA,066 536,DE/EN,Kunst & Gesellschaft,BA,Experimental Game Cultures,Experimental Game Cultures
-Industrial Design,Diplom,580,ambiguous,Design,Matura,Industrial Design,Industrial Design
-Restaurierung,Diplom,588,DE,Konservierung & Restaurierung,,Restaurierung+CHC,Konservierung und Restaurierung
-Kunst- und Kulturwissenschaften,MA,066 568,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Kunst- und Kulturwissenschaften,Kunst- und Kulturwissenschaften
-Lehramt: kkp,BA,193 067,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",Matura,Lehramt,Lehramt
-Lehramt: kkp,MA,196 067,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Lehramt,Lehramt
-Lehramt: dex,BA,193 074,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",Matura,Lehramt,Lehramt
-Lehramt: dex,MA,196 074,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Lehramt,Lehramt
-Social Design,MA,066 781,DE/EN,Kunst & Gesellschaft,BA,Social Design,Social Design
-Sprachkunst,BA,033 170,DE,Sprachkunst,,Sprachkunst,Sprachkunst
-Sprachkunst,MA,066 570,DE,Sprachkunst,BA,Sprachkunst,Sprachkunst
-TransArts,BA,033 180,ambiguous,Bildende & Mediale Kunst,,TransArts,TransArts
-TransArts,MA,066 780,ambiguous,Bildende & Mediale Kunst,BA,TransArts,TransArts
-Transformation Studies,BA,033 162,EN,Transformation,Matura,Transformation Studies,Transformation Studies
-Transformation Studies,PhD,794 815,EN,Doktoratszentrum,MA,Transformation Studies,Transformation Studies
+name,level,studienkennzahl,language,institute,admission,stv,stuko,ws2025
+Architecture,MA,066 443,EN,Architektur,BA,Architektur,Architektur,105
+Art & Science,MA,066 776,EN,Bildende & Mediale Kunst,BA,Art & Science,Art & Science,41
+ausserordentliche Studierende,,,,,,,,42
+Bildende Kunst,Diplom,605,ambiguous,Bildende & Mediale Kunst,,Bildende Kunst,Bildende Kunst,267
+Bühnengestaltung,Diplom,542,,Bildende & Mediale Kunst,,Bühnengestaltung,Bühnen- und Filmgestaltung,43
+CDS,BA,033 700,EN,Kunst & Gesellschaft,Matura,Cross-Disciplinary Strategies,Cross-Disciplinary Strategies,82
+CDS,MA,066 569,EN,Kunst & Gesellschaft,BA,Cross-Disciplinary Strategies,Cross-Disciplinary Strategies,23
+Cultural Heritage Conservation and Management,MA,066 572,EN,Konservierung & Restaurierung,BA,Restaurierung+CHC,Cultural Heritage Conservation and Management,8
+Design: Angewandte Fotografie,Diplom,626,ambiguous,Design,,Design,Design,58
+Design: Kommunikationsdesign,Diplom,577,DE,Design,,Design,Design,58
+Design: Mode,Diplom,584,ambiguous,Design,,Design,Design,47
+Design: Narrative Medien,Diplom,576,ambiguous,Design,,Design,Design,46
+educating/curating/making,MA,999 102,,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Postgraduale Lehrgänge,/ecm – education/ curating/ making,50
+PhD artistic research,PhD,794 950,EN,Doktoratszentrum,MA,Doktoratsstudium künstlerische Forschung,Künstlerisches Doktoratsstudium,34
+PhD Naturwissenschaften,PhD,791,ambiguous,Doktoratszentrum,MA,Doktoratsstudien (wissenschaftlich & technisch),"Doktoratsstudium der Philosophie, der Techn. Wissenschaften und der Naturwissenschaften",5
+PhD technische Wissenschaften,PhD,786,ambiguous,Doktoratszentrum,MA,Doktoratsstudien (wissenschaftlich & technisch),"Doktoratsstudium der Philosophie, der Techn. Wissenschaften und der Naturwissenschaften",20
+PhD Philosophie,PhD,792,ambiguous,Doktoratszentrum,MA,Doktoratsstudien (wissenschaftlich & technisch),"Doktoratsstudium der Philosophie, der Techn. Wissenschaften und der Naturwissenschaften",137
+Medienkunst: Digitale Kunst,Diplom,567,ambiguous,Bildende & Mediale Kunst,,Medienkunst,Medienkunst,66
+Medienkunst: Transmediale,Diplom,566,ambiguous,Bildende & Mediale Kunst,,Medienkunst,Medienkunst,68
+Expanded Museum Studies,MA,066 537,DE/EN,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Expanded Museum Studies,Expanded Museum Studies,55
+Experimental Game Cultures,MA,066 536,DE/EN,Kunst & Gesellschaft,BA,Experimental Game Cultures,Experimental Game Cultures,39
+Industrial Design,Diplom,580,ambiguous,Design,Matura,Industrial Design,Industrial Design,166
+Restaurierung,Diplom,588,DE,Konservierung & Restaurierung,,Restaurierung+CHC,Konservierung und Restaurierung,57
+Kunst- und Kulturwissenschaften,MA,066 568,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Kunst- und Kulturwissenschaften,Kunst- und Kulturwissenschaften,54
+Lehramt: kkp,BA,193 067,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",Matura,Lehramt,Lehramt,232
+Lehramt: kkp,MA,196 067,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Lehramt,Lehramt,62
+Lehramt: dex,BA,193 074,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",Matura,Lehramt,Lehramt,209
+Lehramt: dex,MA,196 074,DE,"Kunstwissenschaften, Kunstpädagogik und Kunstvermittlung",BA,Lehramt,Lehramt,51
+Social Design,MA,066 781,DE/EN,Kunst & Gesellschaft,BA,Social Design,Social Design,42
+Sprachkunst,BA,033 170,DE,Sprachkunst,,Sprachkunst,Sprachkunst,47
+Sprachkunst,MA,066 570,DE,Sprachkunst,BA,Sprachkunst,Sprachkunst,38
+TransArts,BA,033 180,ambiguous,Bildende & Mediale Kunst,,TransArts,TransArts,28
+TransArts,MA,066 780,ambiguous,Bildende & Mediale Kunst,BA,TransArts,TransArts,33
+Transformation Studies,BA,033 162,EN,Transformation,Matura,Transformation Studies,Transformation Studies,62
+Transformation Studies,PhD,794 815,EN,Doktoratszentrum,MA,Transformation Studies,Transformation Studies,4

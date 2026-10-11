@@ -2,7 +2,7 @@
 
 ## Study programme browser
 
-The site also provides a searchable study programme table using Vite, Papa Parse
+The site also provides a sortable study programme table using Vite, Papa Parse
 and DataTables. All records appear on one page, sorted by programme name by
 default; select any column heading to change the sorting.
 Empty fields remain blank. CSV values are rendered as text and
@@ -37,7 +37,7 @@ checks the build on pull requests. It can also be run manually. The site is
 configured for `/countrycodes/`; change `base` in `web/vite.config.js` if hosted
 under another path or on a custom domain.
 
-The table uses native table headers, a caption, labelled search, visible focus
+The table uses native table headers, a caption, visible focus
 indicators and DataTables' keyboard sorting.
 Screen-reader testing of the deployed page is still recommended.
 
