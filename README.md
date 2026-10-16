@@ -3,8 +3,19 @@
 ## Study programme browser
 
 The site also provides a sortable study programme table using Vite, Papa Parse
-and DataTables. All records appear on one page, sorted by programme name by
-default; select any column heading to change the sorting.
+and DataTables. Programmes with a colon appear as initially collapsed subrows
+under their parent programme. Parent buttons expand or collapse those rows;
+standalone programmes remain ordinary rows. If the CSV has no parent row, a
+toggle row is added. Missing parent values use matching text from all children
+or the sum of available student counts. Conflicting text and entirely missing
+counts remain blank. Study codes are treated as text, not summed.
+Existing parent values are preserved.
+Text shared by all children and their parent is displayed only in the parent;
+child counts remain visible. Column sorting orders the top-level programmes
+using their displayed values. Children follow their parent's sort values and
+stay directly beneath it, in source order.
+The student-count columns display `ws2025` (winter semester 2025) and `ss2026`
+(summer semester 2026) side by side, with numeric sorting and parent totals.
 Empty fields remain blank. CSV values are rendered as text and
 study codes retain their leading zeroes.
 

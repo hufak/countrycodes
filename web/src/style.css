@@ -14,3 +14,7 @@ a { color: #174fa3; }
 table { width: 100%; }
 caption { text-align: left; padding: 1rem 0; }
 table.dataTable th, table.dataTable td { vertical-align: top; }
+table.dataTable tbody tr.programme-child td:first-child { padding-left: 2rem; }
+.programme-toggle { border: 0; background: transparent; color: inherit; font: inherit; padding: 0; text-align: left; cursor: pointer; }
+.programme-toggle::before { content: '▸'; display: inline-block; width: 1.25rem; }
+.programme-toggle[aria-expanded='true']::before { content: '▾'; }
