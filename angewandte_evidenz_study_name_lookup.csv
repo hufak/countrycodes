@@ -1,9 +1,18 @@
 dname,name,level
 Architektur,Architecture,MA
+Architektur (Studio 1) (CHERMAYEFF),Architecture: Studio 1,MA
+Architektur (Studio 2) (LESMES),Architecture: Studio 2,MA
+Architektur (Studio 3) (JACOB),Architecture: Studio 3,MA
 Art & Economy,Art & Economy,MA
 Art & Science,Art & Science,MA
 Besuch einzelner LV,ausserordentliche Studierende,
 Bildende Kunst,Bildende Kunst,Diplom
+Bildende Kunst (Malerei) (BOHL),Bildende Kunst: Malerei,Diplom
+Bildende Kunst (Ortsbezogene Kunst) (PETRITSCH),Bildende Kunst: Ortsbezogene Kunst,Diplom
+Bildende Kunst (Fotografie) (THUN),Bildende Kunst: Fotografie,Diplom
+Bildende Kunst (Skulptur und Raum) (SCHABUS),Bildende Kunst: Skulptur und Raum,Diplom
+Bildende Kunst (Malerei und Animationsfilm) (EISLER),Bildende Kunst: Malerei und Animation,Diplom
+Bildende Kunst (Zeichnung und Druckgrafik) (SVENUNGSSON),Bildende Kunst: Zeichnung und Druckgrafik,Diplom
 Bühnengestaltung (MANTHEY),Bühnengestaltung,Diplom
 Cross-Disciplinary Strategies,CDS,BA
 Cross-Disciplinary Strategies (Master),CDS,MA
@@ -23,6 +32,8 @@ ecm - educating/curating/managing,educating/curating/making,MA
 ecm - educating/curating/making,educating/curating/making,MA
 Expanded Museum Studies (Master),Expanded Museum Studies,MA
 Experimental Game Cultures (Master),Experimental Game Cultures,MA
+Design Investigations (JAIN),Industrial Design: Design Investigations,Diplom
+Industrial Design (DIEZ),Industrial Design: ID1,Diplom
 Industrial Design (PIVA),Industrial Design,Diplom
 Restaurierung u. Konservierung (DIETRICH),Restaurierung,Diplom
 Kunst- und Kulturwissenschaften (MA),Kunst- und Kulturwissenschaften,MA
